@@ -11,4 +11,9 @@
   - Cleaned & applied EDA to explore the dataset
   - Visualized data using matplotlib, seaborn libraries
   - Analyzed & presented insights
+ 
+## [Project 3: Ecommerce Website Analysis & Recommendations](https://github.com/NguyenQuan26894/Data-Analysis-Portfolio/tree/main/Ecommerce%20Data%20-%20Analysis%20%26%20Recommendations)
+  - Cleaned data & Applied EDA
+  - Analyzed & figured out problems regarding the Website performance
+  - Provided recommendations to boost the Website performance
 
